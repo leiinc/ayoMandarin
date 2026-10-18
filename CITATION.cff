@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Ayo Mandarin — HSK 3.0 Indonesian vocabulary, levels 1–2"
+message: "If you use this dataset, please cite it and preserve the licence notices."
+type: dataset
+version: "2026-10-18"
+date-released: "2026-10-18"
+license: "CC-BY-SA-4.0"
+url: "https://ayomandarin.com/"
+repository-code: "https://github.com/leiinc/ayoMandarin"
+authors:
+  - name: "Ayo Mandarin"
+    website: "https://ayomandarin.com/"
+keywords:
+  - HSK
+  - Chinese language
+  - Indonesian
+  - vocabulary
