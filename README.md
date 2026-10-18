@@ -30,7 +30,7 @@ JSON terdiri dari `meta` dan `words`. Setiap kata berbentuk:
   "word": "的",
   "pinyin": "de",
   "partOfSpeech": "u,n",
-  "indonesian": "milik; partikel kepemilikan",
+  "indonesian": "partikel kepemilikan; penghubung kata sifat dengan kata benda; penanda penekanan",
   "englishSource": "of; ~'s (possessive particle)"
 }
 ```
